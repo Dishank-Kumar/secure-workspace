@@ -1,1 +1,2 @@
-# secure-workspace
+# Temporary Secure Environment for Public Terminals
+A Temporary Secure Environment (TSE) for Public Terminals involves providing a secure and isolated session for a user on a shared/public terminal (e.g., cyber cafes, libraries). The "Temporary Secure Environment for Public Terminals" project aims to create a secure and ephemeral workspace that ensures users can access public computers without leaving behind any trace of their activities. This concept is especially useful in public settings like libraries, internet cafes, kiosks, or airports, where multiple users share the same machines.
