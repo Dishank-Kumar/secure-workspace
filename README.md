@@ -135,8 +135,6 @@ sw = SecureWorkspace(home_dir="/path/to/your/workspace")
 MIT License – Free for personal and commercial use.  
 
 ---
-
-## **Screenshots**  
-*(Optional: Add GUI screenshots here if available.)*  
+  
 
 🚀 **Happy Safe Coding!** 🚀
